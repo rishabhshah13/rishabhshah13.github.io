@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Face Recogntion using Capsule Networks
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/rishabhshah13/Face-Recogntion-using-Capsule-Networks
 importance: 3
 category: work
 ---

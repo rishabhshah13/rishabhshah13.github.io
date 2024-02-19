@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Video Content Search
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/rishabhshah13/Video-content-search
 importance: 3
 category: work
 ---

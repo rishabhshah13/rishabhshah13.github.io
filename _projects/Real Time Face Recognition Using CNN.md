@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Real Time Face Recognition Using CNN
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/rishabhshah13/Real-Time-Face-Recognition-Using-CNN
 importance: 3
 category: work
 ---

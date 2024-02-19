@@ -2,7 +2,7 @@
 layout: page
 title: Real Time Human Activity Recognition
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: 
 redirect: https://github.com/rishabhshah13/Real-Time-Human-Activity-Recognition
 importance: 3
 category: work

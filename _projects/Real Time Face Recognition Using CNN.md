@@ -2,7 +2,7 @@
 layout: page
 title: Real Time Face Recognition Using CNN
 description: a project that redirects to another website
-img: 
+img:
 redirect: https://github.com/rishabhshah13/Real-Time-Face-Recognition-Using-CNN
 importance: 3
 category: work

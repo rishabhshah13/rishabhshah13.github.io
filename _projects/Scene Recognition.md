@@ -2,7 +2,7 @@
 layout: page
 title: Scene Recognition
 description: a project that redirects to another website
-img: 
+img:
 redirect: https://github.com/rishabhshah13/Scene-Recognition
 importance: 1
 category: work

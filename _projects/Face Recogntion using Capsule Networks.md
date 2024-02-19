@@ -2,7 +2,7 @@
 layout: page
 title: Face Recogntion using Capsule Networks
 description: a project that redirects to another website
-img: 
+img:
 redirect: https://github.com/rishabhshah13/Face-Recogntion-using-Capsule-Networks
 importance: 3
 category: work

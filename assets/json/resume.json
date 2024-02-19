@@ -7,7 +7,7 @@
     "phone": "",
     "url": "",
     "summary": ""
-    },
+  },
   "work": [
     {
       "name": "Duke University",
@@ -16,8 +16,10 @@
       "startDate": "2023-10-01",
       "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Leading the development of the Chatbot module for the extension project of Nurse Hackathon",
-      "Working to integrate LLMs like LLama, Falcon, and Mistral into low-latency systems, aiming to enhance their effectiveness and optimize for resource-constrained applications."]
+      "highlights": [
+        "Leading the development of the Chatbot module for the extension project of Nurse Hackathon",
+        "Working to integrate LLMs like LLama, Falcon, and Mistral into low-latency systems, aiming to enhance their effectiveness and optimize for resource-constrained applications."
+      ]
     },
     {
       "name": "Duke University",
@@ -26,7 +28,10 @@
       "startDate": "2023-10-01",
       "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Analyzed data from remote sensors in Kenya, developed a data pipeline, and created calibration methods to ensure consistent sensor readings in the same environment", "Working towards investigating the impact of pollution on human health using Oura ring data, and analyzing factors such as SpO2, stress levels, and heart rate"]
+      "highlights": [
+        "Analyzed data from remote sensors in Kenya, developed a data pipeline, and created calibration methods to ensure consistent sensor readings in the same environment",
+        "Working towards investigating the impact of pollution on human health using Oura ring data, and analyzing factors such as SpO2, stress levels, and heart rate"
+      ]
     },
     {
       "name": "IBM",
@@ -35,11 +40,13 @@
       "startDate": "2020-09-01",
       "endDate": "2023-08-01",
       "summary": "",
-      "highlights": ["Contributed to platform deployment and reporting for the Global Azure Team, utilizing Machine Learning and Azure Cloud expertise. Specialized in IBM's Content Intelligence platform for document intelligence",
-      "Developed a Table detection Model(Computer Vision) and Similarity Search for Automatic Document Content Validation & processing ~100K Documents leading to 50% cost savings ($200-300 K per year) in the Manual Audit. Used Python, BERT, and Camelot for the same",
-      "Developed a module for document meta-data extraction and hierarchy generation of connecting documents",
-      "Enhanced IBM's Content Intelligence platform by developing document classification and custom key-value pair extraction modules, while optimizing end-to-end document processing",
-      "Deployed end-to-end CI platform for clients on Azure Kubernetes Service using Terraform & Jenkins."]
+      "highlights": [
+        "Contributed to platform deployment and reporting for the Global Azure Team, utilizing Machine Learning and Azure Cloud expertise. Specialized in IBM's Content Intelligence platform for document intelligence",
+        "Developed a Table detection Model(Computer Vision) and Similarity Search for Automatic Document Content Validation & processing ~100K Documents leading to 50% cost savings ($200-300 K per year) in the Manual Audit. Used Python, BERT, and Camelot for the same",
+        "Developed a module for document meta-data extraction and hierarchy generation of connecting documents",
+        "Enhanced IBM's Content Intelligence platform by developing document classification and custom key-value pair extraction modules, while optimizing end-to-end document processing",
+        "Deployed end-to-end CI platform for clients on Azure Kubernetes Service using Terraform & Jenkins."
+      ]
     },
     {
       "name": "IBM",
@@ -48,7 +55,10 @@
       "startDate": "2020-01-01",
       "endDate": "2023-06-01",
       "summary": "",
-      "highlights": ["Made rule-based classification model, LSTM model, etc., for classification of different types of clauses", "Proposed and built two clause segregation approaches: Combined Random Forests with concrete features and other one utilized computer vision techniques."]
+      "highlights": [
+        "Made rule-based classification model, LSTM model, etc., for classification of different types of clauses",
+        "Proposed and built two clause segregation approaches: Combined Random Forests with concrete features and other one utilized computer vision techniques."
+      ]
     },
     {
       "name": "Prescience Decision Solutions",
@@ -57,9 +67,11 @@
       "startDate": "2020-08-01",
       "endDate": "2023-08-01",
       "summary": "",
-      "highlights": ["Contributed to the development of a PDF document search module for an intelligent search platform ,leveraging ElasticSearch and applying retrieval techniques such as TF-IDF and BM25","Used Transformers like BERT, XLnet for passage rankings"]
+      "highlights": [
+        "Contributed to the development of a PDF document search module for an intelligent search platform ,leveraging ElasticSearch and applying retrieval techniques such as TF-IDF and BM25",
+        "Used Transformers like BERT, XLnet for passage rankings"
+      ]
     }
-    
   ],
   "education": [
     {
@@ -71,7 +83,9 @@
       "startDate": "2023-08-01",
       "endDate": "2024-12-01",
       "score": "",
-      "courses": ["Sourcing Data for Analytics, Modeling Process & Algorithms, Reinforcement Learning, Deep Learning Applications, Generative AI, Operationalizing AI (MLOps)"]
+      "courses": [
+        "Sourcing Data for Analytics, Modeling Process & Algorithms, Reinforcement Learning, Deep Learning Applications, Generative AI, Operationalizing AI (MLOps)"
+      ]
     },
     {
       "institution": "NIIT University",
@@ -82,7 +96,9 @@
       "startDate": "2016-08-01",
       "endDate": "2020-08-01",
       "score": "",
-      "courses": ["Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Natural Language Processing, Operating Systems, Algorithms and Data Structures, C++, Python, Information Retrieval"]
+      "courses": [
+        "Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Natural Language Processing, Operating Systems, Algorithms and Data Structures, C++, Python, Information Retrieval"
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -22,7 +22,8 @@ At IBM I was responsible for deployment of the Content Intelligence platform on 
 
 Now, at Duke University, I'm deeply engaged in studying machine learning, computer vision, MLOps, Generative AI, and aiming to leverage these skills to build impactful products. I hold a Bachelor of Technology degree in Computer Science from NIIT University and gained hands-on experience through internships at both IBM and Prescience Decision Solutions, where I contributed to a range of machine learning projects.
 
-Some projects I have worked in [IBM Consulting Global Intelligent Workflows on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm_intelligent_workflows_on_azure), [IBM Consulting Global AI at Scale on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm-ai-at-scale-on-azure)  
+Some projects I have worked in [IBM Consulting Global Intelligent Workflows on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm_intelligent_workflows_on_azure), [IBM Consulting Global AI at Scale on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm-ai-at-scale-on-azure)
+
 <!-- , [3]() -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

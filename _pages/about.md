@@ -24,7 +24,14 @@ Now, at Duke University, I'm deeply engaged in studying machine learning, comput
 
 Some projects I have worked in [IBM Consulting Global Intelligent Workflows on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm_intelligent_workflows_on_azure), [IBM Consulting Global AI at Scale on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm-ai-at-scale-on-azure)
 
+<!-- Use these website in future
+https://ignite.microsoft.com/en-US/sessions/713bfe6b-52e9-4beb-b759-541939e360d2?source=partnerdetail
+https://newsroom.ibm.com/2023-08-17-IBM-Consulting-Collaborates-with-Microsoft-to-Help-Companies-Accelerate-Adoption-of-Generative-AI
+https://azuremarketplace.microsoft.com/en/home
+https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/
+https://www.linkedin.com/in/srinivasanvenkatarajan/ -->
 <!-- , [3]() -->
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -13,7 +13,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm currently pursuing my Masters in [Artificial Intelligence](https://ai.meng.duke.edu/) at Duke University after my successful stint as a Data Scientist at [IBM](https://www.ibm.com/us-en). At IBM, I worked on projects utilizing Machine Learning and Azure Cloud for the Global Azure Team, specializing in Content Intelligence. I was the subject matter expert for Subject Matter Expert for Content Intelligence platform - IBM's solution of document Intelligence. Additionally, I delved into the field of Neuro-symbolic AI, which aims to combine the strengths of both neural and symbolic approaches to enhance AI capabilities.

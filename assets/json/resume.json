@@ -13,7 +13,7 @@
       "name": "Duke University",
       "position": "Duke Innovation Co-Lab Student Developer",
       "url": "",
-      "startDate": "2023 October",
+      "startDate": "2023 October - Present",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -25,7 +25,7 @@
       "name": "Duke University",
       "position": "Graduate Research Assistant - Bergin Group",
       "url": "",
-      "startDate": "2023-10-01",
+      "startDate": "2023 October - Present",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -37,8 +37,8 @@
       "name": "IBM",
       "position": "Data Scientist",
       "url": "",
-      "startDate": "2020-09-01",
-      "endDate": "2023-08-01",
+      "startDate": "2020 September",
+      "endDate": "2023 August",
       "summary": "",
       "highlights": [
         "Contributed to platform deployment and reporting for the Global Azure Team, utilizing Machine Learning and Azure Cloud expertise. Specialized in IBM's Content Intelligence platform for document intelligence",
@@ -52,8 +52,8 @@
       "name": "IBM",
       "position": "Data Scientist Intern",
       "url": "",
-      "startDate": "2020-01-01",
-      "endDate": "2023-06-01",
+      "startDate": "2020 January",
+      "endDate": "2023 June",
       "summary": "",
       "highlights": [
         "Made rule-based classification model, LSTM model, etc., for classification of different types of clauses",
@@ -64,8 +64,8 @@
       "name": "Prescience Decision Solutions",
       "position": "Data Scientist",
       "url": "",
-      "startDate": "2020-08-01",
-      "endDate": "2023-08-01",
+      "startDate": "2020 June",
+      "endDate": "2023 July",
       "summary": "",
       "highlights": [
         "Contributed to the development of a PDF document search module for an intelligent search platform ,leveraging ElasticSearch and applying retrieval techniques such as TF-IDF and BM25",
@@ -80,8 +80,8 @@
       "url": "https://duke.edu",
       "area": "Artificial Intelligence",
       "studyType": "Masters",
-      "startDate": "2023-08-01",
-      "endDate": "2024-12-01",
+      "startDate": "2023 August",
+      "endDate": "2024 December",
       "score": "",
       "courses": [
         "Sourcing Data for Analytics, Modeling Process & Algorithms, Reinforcement Learning, Deep Learning Applications, Generative AI, Operationalizing AI (MLOps)"
@@ -93,8 +93,8 @@
       "url": "https://niituniversity.in",
       "area": "Computer Science with minors in Artificial Intelligence",
       "studyType": "Bachelors",
-      "startDate": "2016-08-01",
-      "endDate": "2020-08-01",
+      "startDate": "2016 August",
+      "endDate": "2020 August",
       "score": "",
       "courses": [
         "Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Natural Language Processing, Operating Systems, Algorithms and Data Structures, C++, Python, Information Retrieval"

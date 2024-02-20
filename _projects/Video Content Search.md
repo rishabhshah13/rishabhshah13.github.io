@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Content Search
-description: a project that redirects to another website
+description: 
 img:
 redirect: https://github.com/rishabhshah13/Video-content-search
 importance: 3

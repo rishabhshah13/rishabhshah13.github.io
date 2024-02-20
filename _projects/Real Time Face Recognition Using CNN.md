@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real Time Face Recognition Using CNN
-description: a project that redirects to another website
+description: The project aims to implement real-time face recognition using Convolutional Neural Networks (CNNs), involving training a model on labeled face images and deploying it to accurately identify individuals in live video streams.
 img:
 redirect: https://github.com/rishabhshah13/Real-Time-Face-Recognition-Using-CNN
 importance: 3

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scene Recognition
-description: 
+description:
 img:
 redirect: https://github.com/rishabhshah13/Scene-Recognition
 importance: 1

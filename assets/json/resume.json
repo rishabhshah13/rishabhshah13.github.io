@@ -13,9 +13,9 @@
       "name": "Duke University",
       "position": "Duke Innovation Co-Lab Student Developer",
       "url": "",
-      "startDate": "2023-10-01",
+      "startDate": "2023 October",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "",
       "highlights": [
         "Leading the development of the Chatbot module for the extension project of Nurse Hackathon",
         "Working to integrate LLMs like LLama, Falcon, and Mistral into low-latency systems, aiming to enhance their effectiveness and optimize for resource-constrained applications."
@@ -27,7 +27,7 @@
       "url": "",
       "startDate": "2023-10-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "",
       "highlights": [
         "Analyzed data from remote sensors in Kenya, developed a data pipeline, and created calibration methods to ensure consistent sensor readings in the same environment",
         "Working towards investigating the impact of pollution on human health using Oura ring data, and analyzing factors such as SpO2, stress levels, and heart rate"

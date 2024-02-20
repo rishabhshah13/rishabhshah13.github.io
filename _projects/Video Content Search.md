@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Content Search
-description:
+description: An advanced video moment search engine. It searches for segmented clips within videos based on user queries, utilizing content rather than conventional methods like text, tags, or length.
 img:
 redirect: https://github.com/rishabhshah13/Video-content-search
 importance: 3

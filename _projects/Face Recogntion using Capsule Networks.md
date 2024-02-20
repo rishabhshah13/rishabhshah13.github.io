@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Face Recogntion using Capsule Networks
-description:
+description: The project aims to deploy real-time face recognition using Capsule Neural Networks (CapsNets), training a model on labeled face images and implementing it to accurately identify individuals in live video streams. CapsNets offer improved performance by capturing hierarchical relationships between features and preserving spatial hierarchies better than CNNs.
 img:
 redirect: https://github.com/rishabhshah13/Face-Recogntion-using-Capsule-Networks
 importance: 3

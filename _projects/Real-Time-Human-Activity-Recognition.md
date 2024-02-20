@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real Time Human Activity Recognition
-description: 
+description:
 img:
 redirect: https://github.com/rishabhshah13/Real-Time-Human-Activity-Recognition
 importance: 3

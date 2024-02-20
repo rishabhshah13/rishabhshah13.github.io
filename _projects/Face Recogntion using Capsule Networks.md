@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Face Recogntion using Capsule Networks
-description: 
+description:
 img:
 redirect: https://github.com/rishabhshah13/Face-Recogntion-using-Capsule-Networks
 importance: 3

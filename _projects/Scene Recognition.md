@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scene Recognition
-description: This is a project that can accurately identify and classify scenes in images. Complete with an UI made with streamlit. Compares 4 different architecture and displays their heatmaps when predicting
+description: This is a project that can accurately identify and classify scenes in images, complete with a UI made with Streamlit. It compares four different architectures and displays their heatmaps when predicting.
 img:
 redirect: https://github.com/rishabhshah13/Scene-Recognition
 importance: 1

@@ -14,13 +14,25 @@
       "position": "Duke Innovation Co-Lab Student Developer",
       "url": "",
       "startDate": "2023 October",
-      "endDate": "Present",
+      "endDate": "2024 September",
       "summary": "",
       "highlights": [
         "Leading the development of the Chatbot module for the extension project of Nurse Hackathon",
         "Working to integrate LLMs like LLama, Falcon, and Mistral into low-latency systems, aiming to enhance their effectiveness and optimize for resource-constrained applications."
       ]
     },
+    {
+      "name": "Nokia Bell Labs",
+      "position": "LLM Intern Co-op",
+      "url": "",
+      "startDate": "2024 June",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed an AI Analyst leveraging Llama 3.2 8B for scalable Generative AI applications, enhancing financial document processing by 30%. Integrated multi-agent RAG chatbots with MongoDB for real-time, personalized insights across 10+ million documents, aligning with reliability.",
+        "Optimized fine-tuned LLMs with QLoRA, enabling tailored responses for dynamic financial scenarios and improving accuracy by 25%. Incorporated real-time data scraping and retrieval mechanisms to facilitate precise, query-based insights for investment and charity data, improving decision-making accuracy."
+      ]
+    }
     {
       "name": "Duke University",
       "position": "Graduate Research Assistant - Bergin Group",

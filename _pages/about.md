@@ -16,24 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
-layout: about
-title: about
-permalink: /
-subtitle:
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: true
-  more_info: >
-
-news: false
-latest_posts: false
-selected_papers: false
-social: true
----
-
 I recently completed my Master’s in [Artificial Intelligence](https://ai.meng.duke.edu/) at Duke University, where I specialized in MLOps, machine learning, generative AI, and large language models. At Duke, I worked on projects involving scalable pipelines, model optimization, and explainable AI, applying these skills to real-world problems.  
 
 Before pursuing my Master’s, I was a Data Scientist at [IBM](https://www.ibm.com/us-en), where I contributed to the development and deployment of IBM’s Content Intelligence platform, an Azure-based document intelligence solution. My responsibilities included designing and deploying the platform on Azure Kubernetes Services using Terraform and Jenkins. I also enhanced its capabilities by integrating Azure Form Recognizer for in-depth invoice analysis and developed custom key-value pair recognition models to improve document processing accuracy. Additionally, I played a key role in optimizing the platform's performance, which resulted in significant cost and time savings for enterprise clients.

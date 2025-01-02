@@ -16,13 +16,37 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm currently pursuing my Masters in [Artificial Intelligence](https://ai.meng.duke.edu/) at Duke University after my successful stint as a Data Scientist at [IBM](https://www.ibm.com/us-en). At IBM, I worked on projects utilizing Machine Learning and Azure Cloud for the Global Azure Team, specializing in Content Intelligence. I was the subject matter expert for Subject Matter Expert for Content Intelligence platform - IBM's solution of document Intelligence. Additionally, I delved into the field of Neuro-symbolic AI, which aims to combine the strengths of both neural and symbolic approaches to enhance AI capabilities.
+---
+layout: about
+title: about
+permalink: /
+subtitle:
 
-At IBM I was responsible for deployment of the Content Intelligence platform on Azure Kubernetes Services which used terraform and Jenkins. I also focused on enhancing the platform, incorporating Azure Form Recognizer for in-depth invoice analysis, and even developed a customized key-value pair recognition model.
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: true
+  more_info: >
 
-Now, at Duke University, I'm deeply engaged in studying machine learning, computer vision, MLOps, Generative AI, and aiming to leverage these skills to build impactful products. I hold a Bachelor of Technology degree in Computer Science from NIIT University and gained hands-on experience through internships at both IBM and Prescience Decision Solutions, where I contributed to a range of machine learning projects.
+news: false
+latest_posts: false
+selected_papers: false
+social: true
+---
 
-Some projects I have worked in [IBM Consulting Global Intelligent Workflows on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm_intelligent_workflows_on_azure), [IBM Consulting Global AI at Scale on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm-ai-at-scale-on-azure)
+I recently completed my Master’s in [Artificial Intelligence](https://ai.meng.duke.edu/) at Duke University, where I specialized in MLOps, machine learning, generative AI, and large language models. At Duke, I worked on projects involving scalable pipelines, model optimization, and explainable AI, applying these skills to real-world problems.  
+
+Before pursuing my Master’s, I was a Data Scientist at [IBM](https://www.ibm.com/us-en), where I contributed to the development and deployment of IBM’s Content Intelligence platform, an Azure-based document intelligence solution. My responsibilities included designing and deploying the platform on Azure Kubernetes Services using Terraform and Jenkins. I also enhanced its capabilities by integrating Azure Form Recognizer for in-depth invoice analysis and developed custom key-value pair recognition models to improve document processing accuracy. Additionally, I played a key role in optimizing the platform's performance, which resulted in significant cost and time savings for enterprise clients.
+
+At [Nokia Bell Labs](https://www.bell-labs.com/), I worked as a Machine Learning Engineer Co-op, focusing on cutting-edge AI solutions. I developed a multi-agent Retrieval-Augmented Generation (RAG) chatbot leveraging Llama 3.1 B8 and BGE-M3 embeddings, fine-tuned QLoRA models to enhance query performance by 25%, and designed scalable pipelines for data processing. This role deepened my expertise in large-scale machine learning and natural language processing systems.
+
+I hold a Bachelor of Technology in Computer Science from NIIT University, where I cultivated a strong foundation in machine learning and artificial intelligence. During my time there, I gained hands-on experience through internships at IBM Consulting and Prescience Decision Solutions, contributing to various machine learning projects ranging from predictive analytics to recommendation engines.
+
+Some projects I have worked one [IBM Consulting Global Intelligent Workflows on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm_intelligent_workflows_on_azure), [IBM Consulting Global AI at Scale on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/consulting-services/ibm-alliance-usa-ny-armonk-dtt-6418595.ibm-ai-at-scale-on-azure)
+
+
+I am passionate about building robust, production-grade machine learning systems, with a particular focus on MLOps, scalable model deployment, and AI-powered decision-making systems. I thrive in fast-paced environments where I can leverage my skills to develop impactful products that solve real-world challenges at scale. Feel free to connect if you'd like to discuss my work or explore potential collaborations.
+
 
 <!-- Use these website in future
 https://ignite.microsoft.com/en-US/sessions/713bfe6b-52e9-4beb-b759-541939e360d2?source=partnerdetail

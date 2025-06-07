@@ -6,35 +6,73 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>Your Name</title>
+    <title>Rishabh Shah - AI/ML Engineer</title>
 </head>
 <body>
+    <nav class="navbar">
+        <div class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="nav-text">Toggle navigation</div>
+    </nav>
+    
     <div class="grid-2">
         <div class="section-1">
-            <i class="fas fa-code fa-5x white"></i>
-            <h2>FirstName LastName</h2>
-            <p>City,Country.</p>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-linkedin"></i></a>
-            <a href="#"><i class="fab fa-github"></i></a>
+            <div class="profile-container">
+                <img src="prof_pic.jpg" alt="Rishabh Shah" class="profile-pic">
+                <h2>Rishabh Shah</h2>
+                <p>AI/ML Engineer & Data Scientist</p>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                    <a href="#"><i class="fab fa-github"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
         </div>
         <div class="section-2">
-            <h2>About</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quas sint et nihil iusto eius nostrum sit error, repellat optio quisquam! Magnam dolore iusto cumque. Nostrum error iste neque maiores.</p>
-            <h2>Experience</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem.</p>
+            <h2>About Me</h2>
+            <p>I recently completed my Master's in Artificial Intelligence at Duke University, where I specialized in MLOps, machine learning, generative AI, and large language models. At Duke, I worked on projects involving scalable pipelines, model optimization, and explainable AI, applying these skills to real-world problems.</p>
 
-            <h2>Skills</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
-            <h2>Projects</h2>
-            <a href="#">Project 1</a>
-            <a href="#">Project 2</a>
-            <a href="#">Project 3</a>
-            <a href="#">Project 4</a>
-            <a href="#">Project 5</a>
+            <h2>Professional Experience</h2>
+            
+            <h3>Data Scientist - IBM</h3>
+            <p>Before pursuing my Master's, I was a Data Scientist at IBM, where I contributed to the development and deployment of IBM's Content Intelligence platform, an Azure-based document intelligence solution. My responsibilities included designing and deploying the platform on Azure Kubernetes Services using Terraform and Jenkins. I also enhanced its capabilities by integrating Azure Form Recognizer for in-depth invoice analysis and developed custom key-value pair recognition models to improve document processing accuracy. Additionally, I played a key role in optimizing the platform's performance, which resulted in significant cost and time savings for enterprise clients.</p>
+
+            <h3>Machine Learning Engineer Co-op - Nokia Bell Labs</h3>
+            <p>At Nokia Bell Labs, I worked as a Machine Learning Engineer Co-op, focusing on cutting-edge AI solutions. I developed a multi-agent Retrieval-Augmented Generation (RAG) chatbot leveraging Llama 3.1 B8 and BGE-M3 embeddings, fine-tuned QLoRA models to enhance query performance by 25%, and designed scalable pipelines for data processing. This role deepened my expertise in large-scale machine learning and natural language processing systems.</p>
+
+            <h2>Education</h2>
+            <p><strong>Master's in Artificial Intelligence</strong> - Duke University<br>
+            Specialized in MLOps, machine learning, generative AI, and large language models</p>
+            
+            <p><strong>Bachelor of Technology in Computer Science</strong> - NIIT University<br>
+            I hold a Bachelor of Technology in Computer Science from NIIT University, where I cultivated a strong foundation in machine learning and artificial intelligence. During my time there, I gained hands-on experience through internships at IBM Consulting and Prescience Decision Solutions, contributing to various machine learning projects ranging from predictive analytics to recommendation engines.</p>
+
+            <h2>Key Projects</h2>
+            <div class="projects">
+                <a href="#">IBM Consulting Global Intelligent Workflows on Azure</a>
+                <a href="#">IBM Consulting Global AI at Scale on Azure</a>
+            </div>
+
+            <h2>Professional Focus</h2>
+            <p>I am passionate about building robust, production-grade machine learning systems, with a particular focus on MLOps, scalable model deployment, and AI-powered decision-making systems. I thrive in fast-paced environments where I can leverage my skills to develop impactful products that solve real-world challenges at scale. Feel free to connect if you'd like to discuss my work or explore potential collaborations.</p>
+
             <h2>Contact</h2>
-            <p>myEmail@email.com</p>
+            <p>Feel free to reach out to discuss potential collaborations or opportunities.</p>
         </div>
     </div>
+
+    <footer class="footer">
+        <p>© Copyright 2025 Rishabh Shah. Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Photos from Unsplash.</p>
+    </footer>
+
+    <script>
+        // Toggle navigation functionality
+        document.querySelector('.nav-toggle').addEventListener('click', function() {
+            this.classList.toggle('active');
+        });
+    </script>
 </body>
 </html>

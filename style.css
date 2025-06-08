@@ -80,7 +80,7 @@ a{
 
 .nav-links {
     display: flex;
-    gap: 20px;
+    /* gap: 10px; */
     align-items: center;
 }
 
@@ -161,6 +161,16 @@ a{
     padding-bottom: 15px;
     margin:0;
     line-height: 1.6;
+}
+
+/* Reduce spacing between paragraph and following list */
+.section-2 p + ul {
+    margin-top: 5px;
+}
+
+/* Reduce bottom margin of paragraph that precedes a list */
+.section-2 p:has(+ ul) {
+    padding-bottom: 5px;
 }
 
 .section-2 .projects {
@@ -259,7 +269,8 @@ a{
 /* New Styles for Hero and What I Do Sections */
 
 .hero-section {
-    margin-bottom: 2em;
+    margin-top: 5em;
+    /* margin-bottom: 2em; */
     text-align: center;
 }
 
@@ -280,7 +291,7 @@ a{
     font-size: 1.1em;
     color: #666;
     line-height: 1.6;
-    max-width: 700px;
+    max-width: 500px;
     margin: 0 auto 0.5em auto;
 }
 

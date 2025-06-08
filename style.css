@@ -7,7 +7,9 @@
 div[id*="clustrmaps"],
 div[class*="clustrmaps"],
 iframe[src*="clustrmaps"],
-.clustrmaps-widget {
+.clustrmaps-widget,
+a[href*="clustrmaps.com"],
+img[src*="clustrmaps.com"] {
     display: none !important;
     visibility: hidden !important;
     height: 0 !important;

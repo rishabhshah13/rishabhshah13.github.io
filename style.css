@@ -35,9 +35,11 @@ a{
     position: fixed;
     top: 20px;
     left: 20px;
+    right: 20px;
     z-index: 1000;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 10px;
 }
 
@@ -74,6 +76,26 @@ a{
 .nav-text {
     color: #7A7C80;
     font-size: 0.9rem;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.nav-links a {
+    color: #7A7C80;
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 /* section 1 */
@@ -211,9 +233,104 @@ a{
     .navbar {
         top: 15px;
         left: 15px;
+        right: 15px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
     }
     
     .nav-text {
         font-size: 0.8rem;
+    }
+    
+    .nav-links {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+        align-items: flex-start;
+    }
+    
+    .nav-links a {
+        font-size: 0.8rem;
+        padding: 6px 10px;
+    }
+}
+
+/* New Styles for Hero and What I Do Sections */
+
+.hero-section {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 2.8em;
+    color: #333;
+    margin-bottom: 0.2em;
+}
+
+.hero-title {
+    font-size: 1.5em;
+    color: #555;
+    font-weight: 400;
+    margin-bottom: 0.8em;
+}
+
+.hero-tagline {
+    font-size: 1.1em;
+    color: #666;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 0 auto 0.5em auto;
+}
+
+.what-i-do-section {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    padding: 1.5em;
+    background-color: #f9f9f9;
+    border-left: 5px solid #007bff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.what-i-do-section h2 {
+    font-size: 1.8em;
+    color: #007bff;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.what-i-do-section p {
+    font-size: 1.05em;
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 0.8em;
+}
+
+.what-i-do-section p:last-child {
+    margin-bottom: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero-section h1 {
+        font-size: 2.2em;
+    }
+
+    .hero-title {
+        font-size: 1.2em;
+    }
+
+    .hero-tagline {
+        font-size: 1em;
+    }
+
+    .what-i-do-section {
+        padding: 1em;
+    }
+
+    .what-i-do-section h2 {
+        font-size: 1.5em;
     }
 }

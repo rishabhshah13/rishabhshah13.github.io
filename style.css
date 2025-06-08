@@ -2,8 +2,18 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 /* Hide ClustrMaps widget */
-#clustrmaps {
+#clustrmaps,
+#clustrmaps + div,
+div[id*="clustrmaps"],
+div[class*="clustrmaps"],
+iframe[src*="clustrmaps"],
+.clustrmaps-widget {
     display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    width: 0 !important;
+    position: absolute !important;
+    left: -9999px !important;
 }
 
 .grid-2{
